@@ -25,6 +25,6 @@ lambda-layers-build
 - modified build_py37_pkgs.sh to also build imutils package
 
 
-Reference
+# Reference
 [image preprocessing] https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 [building lambda layers] https://github.com/amtam0/lambda-tesseract-api
