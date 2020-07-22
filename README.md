@@ -26,5 +26,5 @@ lambda-layers-build
 
 
 # Reference
-[image preprocessing] https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+[image preprocessing] https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/ <br />
 [building lambda layers] https://github.com/amtam0/lambda-tesseract-api
