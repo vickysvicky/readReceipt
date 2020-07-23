@@ -3,7 +3,7 @@ for AWS Serverless Lambda Function <br />
 running in Python 3.7 <br />
 Parse receipt when it is uploaded to designated S3 Bucket <br />
 
-lambda_function.py
+## lambda_function.py ##
 - add S3 Bucket PUT trigger to function
 - get uploaded image, process it, and parse the receipt
 - processed image is uploaded to same S3 bucket
@@ -16,10 +16,10 @@ lambda_function.py
 - ocr:
     - parse receipt with tesseract
 
-apikey.txt
+## apikey.txt ##
 - if uses free ocr-api in lambda_function.py, paste the key here
 
-lambda-layers-build
+## lambda-layers-build ##
 - builds opencv-python (with numpy), pytesseract, tesseract, imutils zip files
 - to be uploaded as lambda layers
 - modified build_py37_pkgs.sh to also build imutils package
