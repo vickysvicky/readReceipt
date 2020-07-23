@@ -1,7 +1,7 @@
 # readReceipt
-for AWS Serverless Lambda Function
-running in Python 3.7
-Parse receipt when it is uploaded to designated S3 Bucket
+for AWS Serverless Lambda Function <br />
+running in Python 3.7 <br />
+Parse receipt when it is uploaded to designated S3 Bucket <br />
 
 lambda_function.py
 - add S3 Bucket PUT trigger to function
